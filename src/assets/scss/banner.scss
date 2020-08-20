@@ -8,7 +8,7 @@
 
 .one-grid-column{
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: 1fr;
     height: 70vh;
     justify-content: center;
     align-items: center;
@@ -54,7 +54,7 @@
      background-image: url("../../../static/banner/web_banner.png");
 
     /* Set a specific height */
-    height: 500px;
+    height: 70vh;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -110,11 +110,11 @@
     h1{
 
         text-transform: uppercase;
-        font-size: 2vw;
+        font-size: 2rem;
         line-height: 1;
         font-weight: 900;
-        color: #fff !important;
-        background: #1f68a157;
+        color: #fff!important;
+        background: rgba(31,104,161,.34);
         padding: 15px;
         text-align: center;
 
@@ -160,9 +160,15 @@
         }
 
         text-transform: uppercase;
-        color: #eeee !important;
-        margin-top: 8%;
+        color: hsla(0,0%,93.3%,.93)!important;
+        /* margin-top: 2%; */
         display: block;
+        text-align: center;
+        max-width: 300px;
+        margin: 2% auto;
+        padding: 1%;
+        background: #344b60;
+
     }
 
     .first-title{
@@ -170,5 +176,5 @@
         font-size: 5em;
         color: #fff;
     }
-    
+
 }
