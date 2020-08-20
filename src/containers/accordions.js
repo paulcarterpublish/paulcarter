@@ -8,12 +8,9 @@ const { Option } = Select
 
 
 const text = `
-  Your attitude will take control and guide all the events
-  in your life. Anything you do and know will condition what you receive.
-  The universe is energy. Our thoughts transform that concentration
-  of energy creating our reality. At the core of our being, we are one
-  with the planet earth, the universe, and the omnipresence of the Most High.
-  Reality is both spiritual, physical, and psychological.
+  The Further Tales of a Country Doctor are Carter’s continuing 
+  stories of the tapestry of life as drawn from overseeing 
+  a small-town medical practice in rural Australia.
 `;
 
 
