@@ -29,7 +29,7 @@ const ATB = (props)=>{
                                    Read by over 25,000 people Dr Paul Carter's
                                    style is filled with kindness, wit and laughter
                                    as he regales stories from his time as a doctor
-                                   in a country town inAustralia . He has written three wonderful
+                                   in a country town in Australia. He has written three wonderful
                                    Australian best-selling books that remind us all of what
                                    is truly important in life.
                                 </h4>
