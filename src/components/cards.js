@@ -69,7 +69,6 @@ const Cards = ()=>{
                                 `} />}/>
                         </Card>
 
-
                         <Card
                             hoverable
                             style={{ width: 400 }}
