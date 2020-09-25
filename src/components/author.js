@@ -9,7 +9,6 @@ const Author = () =>{
                 <div className="grid-two-columns">
 
                      <div className="grid-child" id="author-contents">
-
                         <p>
                           I was born in Warwickshire in central England in 1946.
                           I spent my early years in the small village of Tile Hill near Coventry.
