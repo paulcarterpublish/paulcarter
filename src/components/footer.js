@@ -31,7 +31,7 @@ const Footer = ()=>{
                         <ul>
 
                             <li>
-                                <a href="https://www.facebook.com/Paul-Carter-MD-432784553919160"
+                                <a href="https://www.facebook.com/PaulCarterWriter"
                                 target="_blank">
                                     <FontAwesomeIcon   
                                         className='font-awesome'
