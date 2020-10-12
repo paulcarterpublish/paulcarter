@@ -61,7 +61,7 @@ const ATB = (props)=>{
                                         amazon:'https://www.amazon.com/gp/product/B07DF5RQ6D/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i2', 
                                     },
                                     paperback:{
-                                        amazon:'',
+                                        amazon:'https://www.amazon.com/Tales-Country-Doctor-Paul-Carter/dp/1643450344/',
                                         barnes:'https://www.barnesandnoble.com/w/tales-of-a-country-doctor-paul-carter-md/1128848988?ean=9781643450346',
                                         booksamillion:'https://www.booksamillion.com/p/Tales-Country-Doctor/Paul-Carter-MD/9781643450346?id=7714171848832',
                                     }
